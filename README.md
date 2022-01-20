@@ -6,7 +6,7 @@ The majority of Ritesh's experience has been in Project management, Product mana
 
 ## Skills
 
-Web Development: HTML 5, CSS, JavaScript | Web Accessibility | Microsoft Office Suit, Excel | Management tools: Microsoft Project, JIRA, Confluence, Azure DevOps, Mavenlink | Graphic Apps - Photoshop, InDesign, Illustrator, Invision, Zeplin, Figma | CMS: Drupal, SiteCore, WordPress, SharePoint | Product Management | Program Management | Google Analytics, Google Tag Manager | Scaled Agile | Agile Coach
+Web Development: HTML 5, CSS, JavaScript, Web Accessibility, Microsoft Office Suit, Excel, Management tools: Microsoft Project, JIRA, Confluence, Azure DevOps, Mavenlink, Graphic Apps - Photoshop, InDesign, Illustrator, Invision, Zeplin, Figma, CMS: Drupal, SiteCore, WordPress, SharePoint, Product Management, Program Management, Google Analytics, Google Tag Manager, Scaled Agile, Agile Coach
 
 ## Work Experience
 
