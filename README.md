@@ -1,8 +1,8 @@
 ## About
 
-Ritesh is a solution-focused IT project manager with over 18 years of experience in leading large-scale technology projects from estimate through to implementation. Instrumental in dissecting complex problems, devising iterative processes, and leading end-to-end change management.
+Having 19.7 years of experience in IT and 6 years of experience in agile programs and product management. At Publicis Sapient, I own end-to-end enterprise digital business transformation for an energy and commodity portfolio of products for 13 EU countries. I coach and collaborate with stakeholders to improve business efficiency and manage the monthly $1.30k+ program budget. 
 
-The majority of Ritesh's experience has been in Project management, Product management, and User experience design. He is working as an Agile Program Manager at Publicis Sapient, handling a scale agile team. He was working as a Project Manager with his previous organization – Investis Digital. He delivered different Corporate websites, AA accessibility websites, Investor relation websites, Micro websites, and Multilingual websites. These websites covered the following domains: Agriculture, Pharma, Health care IT, Fashion, Cosmetics, Energy, Gaming, Banking and finance, Chemical manufacturing, Tech-instrumentation supplier, Investment consultant, Real estate, Property traders, and Hardware products. Ritesh worked for the Germany, USA, UK, Sweden,and Finland based on different clients and vendors.
+With my previous employers, I engaged as an associate product manager for the following products: Dynamic factsheet, Data charting center, RR Bloomberg, CMS manager, Shopping cart plus, and Email marketing campaign manager. I led remote global geographically diverse teams in the launch of more than 35 profitable agile projects grossing GBP 1M+, 3 successful acquisition programs, and a 30% increase in production efficiency for investor relations products.
 
 ## Skills
 
