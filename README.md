@@ -1,8 +1,8 @@
 ## About
 
-Having 19.7 years of experience in IT and 6 years of experience in agile programs and product management. At Publicis Sapient, I own end-to-end enterprise digital business transformation for an energy and commodity portfolio of products for 13 EU countries. I coach and collaborate with stakeholders to improve business efficiency and manage the monthly $1.30k+ program budget. 
+Results-driven senior-level program manager with 20 years of experience, including 7+ years specializing in Program and Product management. Expertise in driving enterprise digital business transformation, leading complex projects, and solving intricate business problems. Proven ability to deliver impactful results, optimize operational efficiency, and successfully manage cross-functional teams.
 
-With my previous employers, I engaged as an associate product manager for the following products: Dynamic factsheet, Data charting center, RR Bloomberg, CMS manager, Shopping cart plus, and Email marketing campaign manager. I led remote global geographically diverse teams in the launch of more than 35 profitable agile projects grossing GBP 1M+, 3 successful acquisition programs, and a 30% increase in production efficiency for investor relations products.
+At Publicis Sapient, I am entrusted with driving enterprise digital transformation and overseeing a manage product portfolio across 13 EU countries. Managing a monthly program budget exceeding $1.30k. In my previous role, I led a team of 16+ engineers, product managers, data engineers, and UX designers in developing new software products and features. I successfully managed various projects from inception to completion, built processes from the ground up, and improved operational efficiency by 30%. Additionally, I spearheaded the launch of over 40+ profitable projects, totalling GBP 2.7M+ in revenue, successfully executed 3 acquisition programs, and achieved a 30% increase in production efficiency for investor relations products.
 
 ## Skills
 
